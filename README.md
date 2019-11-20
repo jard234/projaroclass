@@ -1,2 +1,0 @@
-# projaroclass
-introduction to github
